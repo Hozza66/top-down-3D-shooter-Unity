@@ -1,4 +1,4 @@
-# Square Goes - Top Down 3D Shooter
+# Square Goes - Top Down 3D Shooter Assests
 
 This repository contains the assets and codes for the top down 3D shooter game "Square Goes" made in unity.
 
